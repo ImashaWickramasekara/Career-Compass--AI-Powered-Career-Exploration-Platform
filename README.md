@@ -7,7 +7,7 @@ It provides personalized guidance based on user inputs, interactive assessments,
 
 
 ## 💻 GitHub Repository
-🔗 [https://github.com/ImashaWickramasekara/Career-Compass-AI-Powered-Career-Exploration-Platform]
+🔗 https://github.com/ImashaWickramasekara/Career-Compass-AI-Powered-Career-Exploration-Platform
 
 ---
 
@@ -67,5 +67,6 @@ It provides personalized guidance based on user inputs, interactive assessments,
 ```bash
 git clone https://github.com/ImashaWickramasekara/Career-Compass-AI-Powered-Career-Exploration-Platform.git
 cd Career-Compass-AI-Powered-Career-Exploration-Platform
+
 
 
